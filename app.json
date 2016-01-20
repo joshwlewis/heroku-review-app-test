@@ -1,0 +1,10 @@
+{
+  "name": "heroku-review-app-test",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
